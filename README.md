@@ -1,23 +1,40 @@
-# BMW-Dashboard - Power-BI
+# 🚗 BMW-Dashboard - Power BI
 
-### About the Dashboard:
+An interactive Power BI dashboard showcasing **BMW's global performance (2019–2023)** across multiple business metrics and regions.
 
-This Power BI dashboard provides an interactive overview of BMW's global performance from 2019 to 2023. It includes:
+---
 
-Revenue Trends: Year-wise revenue comparison with previous years.
+## 📊 Dashboard Highlights
 
-Top Selling Models: Highlights top-performing cars like BMW Z4, 8 Series, M4, and i8.
+🔹 **Revenue Trends**  
+📈 Compare year-wise revenue with previous years to understand BMW’s financial growth trajectory.
 
-Country-wise Sales: Shows quantity sold and revenue in countries like Argentina, Brazil, Canada, and China.
+🔹 **Top Selling Models**  
+🏆 Explore the best-selling cars such as **BMW Z4**, **8 Series**, **M4**, and **i8**.
 
-Sales Channels: Distribution of sales via Online, Dealership, and Wholesale.
+🔹 **Country-wise Sales**  
+🌍 Visualize quantity sold and revenue from countries like **Argentina**, **Brazil**, **Canada**, and **China**.
 
-Most Expensive Models: Displays average prices of premium models like M8 and iX3.
+🔹 **Sales Channels**  
+🛒 Understand the distribution across **Online**, **Dealership**, and **Wholesale** channels.
 
-Detailed Model View: Drills down into each model (e.g., BMW Z4) with yearly sales and revenue trends.
+🔹 **Most Expensive Models**  
+💰 View average prices of premium models like **BMW M8** and **iX3**.
 
+🔹 **Detailed Model View**  
+🔍 Drill down into each model (e.g., **BMW Z4**) with yearly breakdowns for **sales volume** and **revenue**.
 
-##$ Dasboard Preview:
+---
+
+## 🛠️ Tools Used
+
+- **Power BI** – for dashboard creation and visualization  
+- **Excel/CSV** – data source  
+- **DAX & Power Query** – data modeling and transformation
+
+---
+
+## 📸 Dashboard Preview
 
 ![image](https://github.com/user-attachments/assets/cb348111-3ea1-4a04-8cca-55f3690887e8)
 
@@ -25,3 +42,4 @@ Detailed Model View: Drills down into each model (e.g., BMW Z4) with yearly sale
 
 ![image](https://github.com/user-attachments/assets/b297d324-3d09-4521-b15f-dc60fb2fa4ed)
 
+---
